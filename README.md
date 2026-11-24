@@ -29,13 +29,13 @@ The full source code of every product is available in the [MIKODES Store](https:
 | <img src="assets/tide.png" width="40"> | **TIDE** | Self-custodial Solana wallet with a social feed | [Showcase](https://github.com/Mikodesteam/tide) · [Store](https://store.mikodes.com/p/tide/) |
 | <img src="assets/nescroll.png" width="40"> | **Nescroll** | Social browser without endless feeds (SwiftUI, iOS) | [Showcase](https://github.com/Mikodesteam/nescroll) · [Store](https://store.mikodes.com/p/nescroll/) |
 | <img src="assets/vox.png" width="40"> | **VOX** | AI voice assistant that calls you, with SaaS billing | [Showcase](https://github.com/Mikodesteam/vox) · [Store](https://store.mikodes.com/p/vox/) |
-| <img src="assets/kinetica.png" width="40"> | **Kinetica** | AI motion-graphics video studio | [Store](https://store.mikodes.com/p/kinetica/) |
-| <img src="assets/vodmill.png" width="40"> | **Vodmill** | AI video clipping platform with campaigns | [Store](https://store.mikodes.com/p/vodmill/) |
+| <img src="assets/kinetica.png" width="40"> | **Kinetica** | AI motion-graphics video studio | [Showcase](https://github.com/Mikodesteam/kinetica) · [Store](https://store.mikodes.com/p/kinetica/) |
+| <img src="assets/vodmill.png" width="40"> | **Vodmill** | AI video clipping platform with campaigns | [Showcase](https://github.com/Mikodesteam/vodmill) · [Store](https://store.mikodes.com/p/vodmill/) |
 | <img src="assets/channelsmith.png" width="40"> | **Channelsmith** | Documentary video studio for YouTube | [Showcase](https://github.com/Mikodesteam/channelsmith) · [Store](https://store.mikodes.com/p/channelsmith/) |
-| <img src="assets/truthbeam.png" width="40"> | **Truthbeam** | AI scam and fake-content checker | [Store](https://store.mikodes.com/p/truthbeam/) |
-| <img src="assets/leadlantern.png" width="40"> | **Leadlantern** | Local lead finder for agencies | [Store](https://store.mikodes.com/p/leadlantern/) |
-| <img src="assets/omnithread.png" width="40"> | **Omnithread** | Omnichannel team inbox for Perfex CRM | [Store](https://store.mikodes.com/p/omnithread/) |
-| <img src="assets/kiln.png" width="40"> | **Kiln** | White-label AI website builder | [Store](https://store.mikodes.com/p/kiln/) |
+| <img src="assets/truthbeam.png" width="40"> | **Truthbeam** | AI scam and fake-content checker | [Showcase](https://github.com/Mikodesteam/truthbeam) · [Store](https://store.mikodes.com/p/truthbeam/) |
+| <img src="assets/leadlantern.png" width="40"> | **Leadlantern** | Local lead finder for agencies | [Showcase](https://github.com/Mikodesteam/leadlantern) · [Store](https://store.mikodes.com/p/leadlantern/) |
+| <img src="assets/omnithread.png" width="40"> | **Omnithread** | Omnichannel team inbox for Perfex CRM | [Showcase](https://github.com/Mikodesteam/omnithread) · [Store](https://store.mikodes.com/p/omnithread/) |
+| <img src="assets/kiln.png" width="40"> | **Kiln** | White-label AI website builder | [Showcase](https://github.com/Mikodesteam/kiln) · [Store](https://store.mikodes.com/p/kiln/) |
 
 ### Open source
 
