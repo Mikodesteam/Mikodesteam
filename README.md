@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Indie software studio. 2,000+ source codes sold.</b><br>
-  Ready-to-run apps, SaaS platforms and admin panels you can rebrand and sell as your own.
+  Ready-to-run apps, SaaS platforms and admin panels you can rebrand and sell as your own.<br>
+  Source code for Flutter crypto wallets, crypto trading bots, AI video generators, AI SaaS tools, Perfex CRM modules and iOS apps.
 </p>
 
 <p align="center">
@@ -37,9 +38,10 @@ The full source code of every product is available in the [MIKODES Store](https:
 | <img src="assets/omnithread.png" width="40"> | **Omnithread** | Omnichannel team inbox for Perfex CRM | [Showcase](https://github.com/Mikodesteam/omnithread) · [Store](https://store.mikodes.com/p/omnithread/) |
 | <img src="assets/kiln.png" width="40"> | **Kiln** | White-label AI website builder | [Showcase](https://github.com/Mikodesteam/kiln) · [Store](https://store.mikodes.com/p/kiln/) |
 
-### Open source
+### Free Android examples
 
-- [**LuckyWheel**](https://github.com/Mikodesteam/LuckyWheel): Android lucky-wheel custom view, MIT licensed.
+- [**LuckyWheel**](https://github.com/Mikodesteam/LuckyWheel): Android lucky wheel (spin wheel) demo app in Java.
+- [**TicTacToe**](https://github.com/Mikodesteam/TicTacToe): Tic Tac Toe game for Android in Java.
 
 ### Custom work
 
